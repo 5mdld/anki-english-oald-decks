@@ -1,0 +1,8 @@
+/*
+!/.gitignore
+!/.gitattributes
+!/deck-source/
+!/LICENSE
+!/README.md
+
+.DS_Store
