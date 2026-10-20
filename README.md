@@ -49,7 +49,7 @@ Each card teaches one meaning. A word with several meanings therefore has severa
 
 ## Card features
 
-![Card fronts, backs, and translations in light and dark themes, including hidden translations and optional example TTS](docs/images/card-features.png)
+![Card fronts, backs, and translations in light and dark themes, including hidden translations and optional example TTS](https://pub-90b0b2afa26447b8b824c3d05d8e274f.r2.dev/uPic/20261020eNTkHo.png)
 
 *Some previews have translations and TTS enabled; both are off by default.*
 
