@@ -2,7 +2,9 @@
 
 An English vocabulary deck for Anki, combining Oxford CEFR A1–C1 core vocabulary with COCA 20k expansion vocabulary. Study one meaning per card with British and American pronunciation audio, example sentences, and optional Chinese and Japanese translations.
 
-[Download the deck →](https://github.com/5mdld/anki-english-oald-decks/releases)
+| [Download from GitHub →](https://github.com/5mdld/anki-english-oald-decks/releases) | [Download from AnkiWeb →](https://ankiweb.net/shared/info/1383468581) |
+| :--- | :--- |
+| Choose with or without example recordings. | Word audio included; no example recordings. |
 
 ## Overview
 
